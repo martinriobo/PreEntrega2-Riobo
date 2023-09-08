@@ -1,0 +1,154 @@
+.miLogo {
+    width: 150px;
+    display: block;
+
+}
+
+.forFondo {
+    background-color: bisque;
+    border-radius: 50px;
+
+}
+
+header {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    position: sticky;
+    top: 0;
+
+
+
+}
+
+header li:hover {
+
+    background-color: beige;
+
+}
+
+
+
+.contactanos {
+    text-decoration: none;
+    background-color: bisque;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    color: black;
+}
+
+.contactanos:hover {
+    background-color: beige;
+}
+
+
+.inicio {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    margin: 10%;
+}
+
+.inicio h1 {
+    color: black;
+    font-size: 100px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+.inicio p {
+
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.inicio img {
+    padding: 20px;
+}
+
+.fotos {
+    width: 400px;
+
+}
+
+body {
+    background-color: bisque;
+}
+
+
+form {
+
+    display: flex;
+    flex-direction: column;
+    padding: 100px;
+    border: 1px solid black;
+
+}
+
+form label {
+
+    padding: 50px;
+}
+
+div {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.enviar {
+    margin-top: 10px;
+}
+
+.formulario {
+
+    width: 600px;
+
+}
+
+footer {
+    background-color: black;
+    height: 220px;
+
+
+}
+
+footer li {
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer li,
+a {
+
+    display: flex;
+    color: bisque;
+    padding: 5px;
+    font-size: 15px;
+
+}
+
+.carta {
+    display: flex;
+display: inline-block;
+    margin: 100px;
+justify-content: space-around;
+align-items: center;
+
+}
