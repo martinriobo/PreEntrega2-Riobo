@@ -1,0 +1,12 @@
+.carta {
+    display: flex;
+    display: inline-block;
+    margin: 50px;
+    justify-content: space-around;
+    align-items: center;
+
+    .fotoCard {
+        width: 200px;
+        height: 200px;
+    }
+}

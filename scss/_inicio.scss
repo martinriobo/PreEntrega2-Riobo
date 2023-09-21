@@ -1,0 +1,32 @@
+.inicio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    margin: 10%;
+
+    h1 {
+        color: black;
+        font-size: 100px;
+        font-family: 'Lato', sans-serif;
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    p {
+        font-size: 36px;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .inicio img {
+        padding: 20px;
+    }
+
+    .fotos {
+        width: 400px;
+
+    }
+
+
+}
